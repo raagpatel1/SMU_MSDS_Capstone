@@ -1,5 +1,0 @@
-Order,PMID,DOI,Title,Year,Journal,LastName,ForeName,Address,Gender,CitationCount,Date.Received,Date.Published
-1,34975350,10.18637/jss.v100.i21,BayesCTDesign: An R Package for Bayesian Trial Design Using Historical Control Data.,2021,Journal of statistical software,Eggleston,Barry S,RTI International,M,0,NA,30-Nov-21
-2,34975350,10.18637/jss.v100.i21,BayesCTDesign: An R Package for Bayesian Trial Design Using Historical Control Data.,2021,Journal of statistical software,Ibrahim,Joseph G,UNC Chapel Hill,M,0,NA,30-Nov-21
-3,34975350,10.18637/jss.v100.i21,BayesCTDesign: An R Package for Bayesian Trial Design Using Historical Control Data.,2021,Journal of statistical software,McNeil,Becky,RTI International,F,0,NA,30-Nov-21
-4,34975350,10.18637/jss.v100.i21,BayesCTDesign: An R Package for Bayesian Trial Design Using Historical Control Data.,2021,Journal of statistical software,Catellier,Diane,RTI International,F,0,NA,30-Nov-21
