@@ -18,7 +18,7 @@ subjects = subjects_list
 rows = 1000
 
 # Define the years you want to pull data for
-years_to_pull = [2017,2018,2019,2020, 2021, 2022, 2023]  
+years_to_pull = [2017, 2018, 2019, 2020, 2021, 2022, 2023]  
 
 def get_articles_by_subject(subject, year, rows=rows):
     base_url = 'https://api.crossref.org/works'
