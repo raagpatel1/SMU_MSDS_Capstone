@@ -105,5 +105,6 @@ for subject in subjects_list:
         print(f"Error processing subject '{subject}': {str(e)}")
         continue
 
-# Concatenate all DataFrames into one big DataFrame
+# Concatenate all DataFrames into one big DataFrame and export it
 massive_Crossreff_pull = pd.concat(subject_dataframes, ignore_index=True)
+massive_Crossreff_pull.to_csv('massive_Crossreff_pull.csv', index=False)
