@@ -70,7 +70,8 @@ for subject in subjects_list:
                 'Author First Name': [],
                 'Author Last Name': [],
                 'Author Order': [],
-                'Referenced By': []
+                'Referenced By': [],
+                'Year': []  # Added this line for the Year column
             }
 
             for article in all_articles:
@@ -95,9 +96,10 @@ for subject in subjects_list:
                     data['Author Last Name'].append(last_name)
                     data['Author Order'].append(order)
                     data['Referenced By'].append(referenced_by)
+                    data['Year'].append(year)  # Append the current year
 
             subject_df = pd.DataFrame(data)
-            subject_df.columns = ['DOI', 'Title', 'Container Title', 'Publisher', 'Publish Date', 'Author First Name', 'Author Last Name', 'Author Order', 'Referenced By']
+            subject_df.columns = ['DOI', 'Title', 'Container Title', 'Publisher', 'Publish Date', 'Author First Name', 'Author Last Name', 'Author Order', 'Referenced By','Year']
             subject_df['Subject'] = subject  # Add a Subject column with the current subject
             subject_dataframes.append(subject_df)
 
