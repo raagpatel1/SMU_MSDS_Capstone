@@ -1,0 +1,31 @@
+This graph looks at how the general distribution of gender authorship takes place over the years we looked at. We wanted to specifically narrow in on Covid, and try to understand if there were any differences that were exemplified during the pandemic. The rate of change was slowing down pre covid, and has now, post covid, started to pick up slightly. ​
+
+We considered the covid eras, as such. Pre covid would be before 2020, covid through 2022, and anything this year onward as 2023.  We can clearly see that the disparity is shrinking, and at this pace we expect parity in 2055. That’s of course not accounting for the recent sharp increases in women holding stem degrees.  Biology comment.​
+
+​------------------------------------------------------------------------------------
+
+Analyzing the first graph, we see a detailed representation of gender authorship across various STEM fields. Starting with engineering, there's a noticeable disparity where only around 20% of articles feature female authors compared to their male counterparts. As we transition to life sciences, there's an increase in female representation, with women contributing to nearly 40% of articles. The fields of mathematics and computer sciences present a distribution akin to life sciences, while physical and earth sciences show an almost even split between male and female authors. Despite these shifts, it's clear that certain STEM areas like engineering continue to experience significant gender disparities. Life Sciences last​
+
+​------------------------------------------------------------------------------------
+
+​"Turning our attention to the second graph, the distribution in humanities and arts and psychology and social sciences is exhibited. Here, both fields display a more balanced gender distribution in comparison to some STEM fields. In humanities and arts, there's a slight edge for male authors, but it's notably closer in representation than what we observed in engineering. Meanwhile, in psychology and social sciences, female authors lead, which resonates with current trends indicating increased female participation in these areas. Reflecting on these insights, it underscores the significance of continued efforts in promoting diversity and inclusivity in all academic domains." End with Bivin Sadler comment​
+
+​------------------------------------------------------------------------------------
+
+​Now this graph was pulled with different data. This data is from the NCSES stands for the National center for Science and Engineering Statistics. They recorded every year, how many journals across all the subjects we just talked about were published, solely in the US. ​
+
+Sharp increase in publication continuing on​
+
+------------------------------------------------------------------------------------
+
+Women’s underrepresentation in research can have implications beyond academia. For instance, in health research, the lack of female researchers can lead to gaps in understanding women’s health issues. Increased publication by women can ensure that research covers more areas that are niche and catered towards minority groups​
+
+Women who publish at the PhD level are more likely to advance in their academic careers and become mentors to the next generation of researchers. This can create a cycle, supporting and inspiring more women to enter and remain In academia.​
+
+Increasing the number of women publishing at the PhD level is not just about equality in academia; it's about advancing gender equality more broadly. When women are visible and successful in high-status professions, it can influence attitudes and norms around gender roles in society. 
+
+However, we must also be cognizant of the challenges or 'headwinds' facing the academic and publishing landscape. These include the end of Affirmative Action and the conclusion of the American Rescue Plan Act – both of which have had profound implications for research and academia.​
+
+​
+
+​
